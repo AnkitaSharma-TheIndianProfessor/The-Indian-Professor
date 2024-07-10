@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ankita Sharma</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f7f7f7;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #8ac6d1;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            text-align: center;
+            padding: 10px 0;
+            background-color: #eeeeee;
+        }
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h2 {
+            color: #8ac6d1;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #eeeeee;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Ankita Sharma</h1>
+    </header>
+    <nav>
+        <a href="#about">About Me</a>
+        <a href="#mindful-eating">Mindful Eating</a>
+        <a href="#exercise">Exercise</a>
+        <a href="#work-life-balance">Work-Life Balance</a>
+    </nav>
+    <div class="container">
+        <section id="about">
+            <h2>About Me</h2>
+            <p>Welcome to my LinkedIn profile! I'm Ankita Sharma, an Assistant Professor in the Management Department at Prestige Institute of Management and Research. With a passion for education and a strong dedication to my students' success, I strive to provide a transformative learning experience.</p>
+            <p>As an Assistant Professor, I am responsible for developing and delivering engaging lectures and seminars on various topics in Management. I encourage critical thinking, facilitate classroom discussions, and mentor students to help them achieve their academic and career goals. Collaborating with colleagues, I actively contribute to curriculum development and assessment processes, ensuring our programs remain relevant and dynamic.</p>
+            <p>My commitment extends beyond the classroom. I actively engage in research projects, exploring the latest trends and developments in the field of Management. By staying abreast of industry advancements, I bring real-world insights and examples to enrich students' learning experiences. I have also had the opportunity to publish my work in reputable journals, further contributing to the academic community.</p>
+            <p>In addition to my teaching and research activities, I am passionate about nurturing leadership skills in students. By fostering a supportive and inclusive environment, I help students develop the qualities necessary for future success in their chosen careers. I strongly believe in empowering the next generation of business leaders.</p>
+            <p>Moreover, my interest extends in the area of fitness and lifestyle. I'm trying to live a minimalistic lifestyle. I'm also pursuing mindful eating habits to stay healthy.</p>
+            <p>If you're interested in connecting, collaborating, or discussing opportunities related to management education, leadership development, or research in the field, I would be delighted to connect with you. Let's join forces and make a positive impact together!</p>
+            <p>Please feel free to reach out to me through LinkedIn or via email at <a href="mailto:ankita.sharma@prestigegwl.org">ankita.sharma@prestigegwl.org</a>. I look forward to connecting and engaging with professionals who share similar passions and goals.</p>
+        </section>
+        <section id="mindful-eating">
+            <h2>Mindful Eating</h2>
+            <p>Coming soon...</p>
+        </section>
+        <section id="exercise">
+            <h2>Exercise</h2>
+            <p>Coming soon...</p>
+        </section>
+        <section id="work-life-balance">
+            <h2>Work-Life Balance</h2>
+            <p>Coming soon...</p>
+        </section>
+    </div>
+    <footer>
+        <p>&copy; 2024 Ankita Sharma. All rights reserved.</p>
+    </footer>
+</body>
+</html>
